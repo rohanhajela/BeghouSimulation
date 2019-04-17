@@ -1,7 +1,7 @@
 # BeghouSimulation
 Files to run simulation for Beghou Consulting's Case Competition on Oak Avenue Pharmaceuticals
 
-Download the Files: "beghou_modeling.csv" and "simulate.py"
+Download the Files: "beghou_modeling.csv" and "simulate.py" (through the folder)
 Run "simulate.py" with python3
 This will create a new file "simulation.txt" with your results.
 
